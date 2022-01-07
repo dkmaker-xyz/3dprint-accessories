@@ -10,16 +10,16 @@ Man kan enten bruge [Knob.stl](stl/Knob.stl) med en M3 bolt, eller en M3 Cap Hea
 ![Samlet](Howto.jpg)
 
 ## Clamp
-* [Clamp.stl](stl/clamp.stl)
-* [Clamp.step](step/clamp.step)
+* [Clamp.stl](stl/Clamp.stl)
+* [Clamp.step](step/Clamp.step)
 ![Clamp](img/Clamp.png)
 
 ## Knob
-* [Knob.stl](stl/knob.stl)
-* [Knob.step](step/knob.step)
-![Knob](img/knob.png)
+* [Knob.stl](stl/Knob.stl)
+* [Knob.step](step/Knob.step)
+![Knob](img/Knob.png)
 
 ## Base
-* [Base.stl](stl/base.stl)
-* [Base.step](step/base.step)
-![Base](img/base.png)
+* [Base.stl](stl/Base.stl)
+* [Base.step](step/Base.step)
+![Base](img/Base.png)
